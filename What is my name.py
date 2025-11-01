@@ -1,1 +1,0 @@
-input("What is my name?")

@@ -1,0 +1,2 @@
+Flower = "lotus"
+print(Flower)

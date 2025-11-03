@@ -1,0 +1,6 @@
+input("what is your name?")
+input("what is your age?")
+input("what is your country?")
+input("what is your favourite color?")
+input("what is you hobby?")
+print("Thank you for your responses!")
